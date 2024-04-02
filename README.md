@@ -33,14 +33,10 @@
 
 <div align="left">
   <a href="https://www.youtube.com/channel/UCW_P6IO97MKeCNNwIq6YVGA">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo">
-</a>
-  
- <a herf = "https://www.instagram.com/guy_with_camera?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"> </a>  
-  
- <a href="aman7480nano@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"></a>
-  
- <a herf= "https://www.linkedin.com/in/aman-kumar-aa0557234/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"> </a>
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"></a>
+  <a herf = "https://www.instagram.com/guy_with_camera?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"> </a>  
+  <a href="aman7480nano@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"></a>
+  <a herf= "https://www.linkedin.com/in/aman-kumar-aa0557234/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"> </a>
   
 </div>
 
